@@ -57,7 +57,7 @@
 
 ## 🛠️ Featured Project
 
-### [🔗 Web Application Reconnaissance and Vulnerability Detection](https://github.com/habibur284/WebRecon-VulnDetection)
+### [🔗 Web Application Reconnaissance and Vulnerability Detection][(https://github.com/0xhabib99/WebRecon-VulnDetection)]
 
 > A Bash script project (`Recon.sh`) that automates subdomain enumeration, URL extraction, live host detection, port scanning, and manual vulnerability checks — tailored for bug bounty hunters and penetration testers.
 
@@ -70,12 +70,12 @@
 
 - 📧 Email: [habiburrahmanr99@gmail.com](mailto:habiburrahmanr99@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/habiburrahman99](https://linkedin.com/in/habiburrahman99)
-- 💻 GitHub: [github.com/habibur284](https://github.com/habibur284)
+- 💻 GitHub: [github.com/habibur284](https://github.com/0xhabib99)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=habibur284&label=Profile%20views&color=0e75b6&style=flat" alt="habibur284" />
+  <img src="https://komarev.com/ghpvc/?username=0xhabib99&label=Profile%20views&color=0e75b6&style=flat" alt="habibur99" />
 </p>
 
 ---
