@@ -70,7 +70,7 @@
 
 - 📧 Email: [habiburrahmanr99@gmail.com](mailto:habiburrahmanr99@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/habiburrahman99](https://linkedin.com/in/habiburrahman99)
-- 💻 GitHub: [github.com/habibur284](https://github.com/0xhabib99)
+- 💻 GitHub: [github.com/0xhabib99](https://github.com/0xhabib99)
 
 ---
 
